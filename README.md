@@ -1,5 +1,9 @@
 
-##About me:
+<img align="right" width="400" src="https://i.gifer.com/NY8Q.gif" alt="coding">
+
+
+
+## About Me:
 
 🔭 I’m currently working on software development projects focused on enhancing user experiences and solving real-world problems.
 
