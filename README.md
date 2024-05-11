@@ -2,12 +2,21 @@
 ##About me:
 
 🔭 I’m currently working on software development projects focused on enhancing user experiences and solving real-world problems.
+
+
 🌱 I’m currently learning advanced techniques in React.js to improve front-end performance and scalability.
+
+
 👯 I’m looking to collaborate on innovative web applications that leverage the latest technologies and push the boundaries of what's possible in the digital space.
+
 🤔 I’m looking for help with optimizing server-side performance and exploring best practices in database management.
+
 💬 Ask me about my experience with the MERN stack, including building RESTful APIs, designing database schemas, and creating responsive user interfaces.
+
 📫 How to reach me: sarnaqueen@gmail.com
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I'm a coffee enthusiast and love experimenting with different brewing methods to find the perfect cup.
 
 
